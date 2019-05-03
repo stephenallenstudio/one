@@ -1,4 +1,4 @@
-google_ads_iframe_/59666047/theguardian.com/uk/front/ng_0__container__
+<iframe id="google_ads_iframe_/59666047/theguardian.com/uk/front/ng_0" title="3rd party ad content" name="google_ads_iframe_/59666047/theguardian.com/uk/front/ng_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" data-google-container-id="7" style="border: 0px; vertical-align: bottom;" data-integralas-id-bf731f8b-f0a9-4e5e-355c-bf28a216e1c1="" data-load-complete="true"></iframe>
 
 
 
